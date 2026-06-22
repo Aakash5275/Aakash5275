@@ -62,7 +62,6 @@
 
 * [cite_start]**Top 28 National Finalist** at Quasar 4.0 Hackathon for *Site-Sync*[cite: 306].
 * [cite_start]**Sector Winner** in Fintech (Razorpay) at Model Business Summit 2024[cite: 307].
-* [cite_start]**Co-Technical Head** & **NSS Coordinator** at Lokmanya Tilak College of Engineering[cite: 278].
 
 ---
 
