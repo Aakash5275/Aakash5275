@@ -1,80 +1,98 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Aakash+Gupta;A+Computer+Engineering+Student;Full+Stack+Developer+%26+IoT+Enthusiast;NSS+Coordinator+%26+Technical+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aakash+Gupta+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+Developer;IoT+Enthusiast;Technical+Leader+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
----
-
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-gupta52/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/aakash-gupta52/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Aakash5275" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Aakash5275">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aakashgupta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:Aakashgupta3877@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRqbjcwZjlkb3h4MHJuY2kzbmdlZmJ1bzJ1NWw2enExeW4weGZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 💡 About Me
+## 👋 About Me
 
-> [cite_start]👨‍💻 **Computer Engineering Student** at Lokmanya Tilak College of Engineering [cite: 270]  
-> [cite_start]🚀 **Full Stack Developer** with a focus on impact-driven web solutions [cite: 285, 292]  
-> [cite_start]🤖 **IoT Enthusiast** experienced with Arduino and sensor-based automation [cite: 298, 301]  
-> [cite_start]🏆 **Top 20%** of my branch with a strong academic track record [cite: 386]  
-> [cite_start]🤝 Co-Technical Head at LTCOE [cite: 278]  
+* 👨‍💻 Computer Engineering student
+* 🚀 Full Stack Developer with a focus on web technologies
+* 🤖 IoT enthusiast with hands-on experience in Arduino and embedded systems
+* 🧠 Interested in programming, problem-solving, and building practical solutions
+* 👥 Experienced in technical leadership and team collaboration
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Development & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 
-#### 🧩 Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
+### Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
+### Databases & Tools
 
----
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-### 🏆 Achievements & Leadership
+### IoT & Embedded
 
-* [cite_start]**Top 28 National Finalist** at Quasar 4.0 Hackathon for *Site-Sync*[cite: 306].
-* [cite_start]**Sector Winner** in Fintech (Razorpay) at Model Business Summit 2024[cite: 307].
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakash5275&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=Aakash5275&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak"/>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Profile Views
+## 🏆 Achievements
+
+* 🥇 **Winner — Tech Astra 3.0 Webathon**
+* 🏅 **Top 28 Overall & Top 7 in Problem Statement Category — Quasar 4.0**
+* 🥇 **Fintech Sector Winner — Model Business Summit 2024**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakash5275&label=Visitors&color=blueviolet&style=for-the-badge" alt="Visitor counter"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakash5275&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Aakash5275&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakash5275&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
